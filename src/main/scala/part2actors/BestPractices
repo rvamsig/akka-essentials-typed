@@ -1,0 +1,3 @@
+//Best Practices to organize code
+
+1. Usually, we don't keep Behavior as standalone as values but, rather we create/generate Behavior as apply methods of objects
